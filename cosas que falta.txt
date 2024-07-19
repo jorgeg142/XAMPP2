@@ -1,0 +1,7 @@
+arreglar la imagen del perfil, no cambia ("listo")
+poner pagina de seguidores
+agregar educacion, ubicacion, descripcion
+quitar carpetas del chat es inutil
+mejorar el diseño del chat es feo
+arreglar las notificaciones
+arreglar el buscador de amigos

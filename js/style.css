@@ -1,0 +1,15 @@
+#divu
+{
+    max-height: 100px;
+    width: 400px;
+    background-color: antiquewhite;            
+    margin: 10px;
+    overflow-y: scroll;
+}
+
+.chatMessage
+{
+    height: 20px;
+    margin: 5px;
+    background-color: yellowgreen;
+}
